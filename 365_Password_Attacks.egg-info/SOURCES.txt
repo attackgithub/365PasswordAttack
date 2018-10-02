@@ -1,0 +1,8 @@
+README.md
+setup.py
+365PasswordAttack/365PasswordAttack.py
+365_Password_Attacks.egg-info/PKG-INFO
+365_Password_Attacks.egg-info/SOURCES.txt
+365_Password_Attacks.egg-info/dependency_links.txt
+365_Password_Attacks.egg-info/requires.txt
+365_Password_Attacks.egg-info/top_level.txt
