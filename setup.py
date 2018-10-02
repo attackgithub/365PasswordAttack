@@ -12,7 +12,7 @@ setup(
     description='''
     Used to carry out autodiscover and password attacks on Office 365 Web Mail''',
     long_description=open('README.md').read(),
-    scripts=['365PasswordAttack.py'],
+    scripts=['365PasswordAttack/365PasswordAttack'],
     install_requires=[
         "selenium",
 	"PyVirtualDisplay"
